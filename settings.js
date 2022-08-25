@@ -22,8 +22,8 @@ global.APIKeys = {
 global.owner = ['Your Number']
 global.premium = ['Your Number']
 global.ownernomer = 'Your Number'
-global.ownername = '🐦Star Boy Nexus'
-global.botname = 'Gojo-Satoru'
+global.ownername = '𝑇𝑜𝑥𝑖𝑐 𝐴𝑙𝑒𝑥𝑎 𝑏𝑜𝑦 💙'
+global.botname = '𝚃𝙾𝚇𝙸𝙲 𝙰𝙻𝙴𝚇𝙰'
 global.footer = '©NexusNwInc.'
 global.ig = 'https://github.com/nexusNw'
 global.region = 'India, South India, Kerala'
@@ -35,14 +35,14 @@ global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    success: 'Done ✓',
+    success: '𝙳𝙾𝙽𝙴 ✓',
     admin: 'This Feature Is Only For Admin!',
     botAdmin: 'Bot Must Be Admin First!',
     owner: 'This Feature Is Only For Owner!',
     group: 'Feature Used Only For Groups!',
     private: 'Features Used Only For Private Chat!',
     bot: 'This Feature Is Only For Bot',
-    wait: 'Wait A minute...',
+    wait: '𝑖𝑝𝑝𝑎𝑚 𝑡ℎ𝑎𝑟𝑎𝑎𝑚💙',
     error: 'Error! Maybe Api Key Is Expired🤔!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
 }
